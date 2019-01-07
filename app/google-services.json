@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "928088150239",
+    "firebase_url": "https://sakni-754de.firebaseio.com",
+    "project_id": "sakni-754de",
+    "storage_bucket": "sakni-754de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928088150239:android:8d32924a21bee945",
+        "android_client_info": {
+          "package_name": "com.majd.sakni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928088150239-tk0aut6sdqvj6s8ucha6g3bi9j0u46nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.majd.sakni",
+            "certificate_hash": "bc440bdfb35729f8efce980b422e08e409153b08"
+          }
+        },
+        {
+          "client_id": "928088150239-0h10bpvldl499trh71l2tm5kn7ra5hm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD27JU9T5z0Vty5oU7tWSuA_xKuRKgJTxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928088150239-0h10bpvldl499trh71l2tm5kn7ra5hm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

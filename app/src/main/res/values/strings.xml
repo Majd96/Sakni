@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sakni</string>
+    <string name="codeErrorMessage">Invalid code</string>
+</resources>
